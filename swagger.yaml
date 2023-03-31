@@ -15,8 +15,6 @@ info:
 servers:
   # Added by API Auto Mocking Plugin
   # Added by API Auto Mocking Plugin
-  - description: SwaggerHub API Auto Mocking
-    url: https://virtserver.swaggerhub.com/EBRIMAJORBARTEH_1/search-engine/1.0.0
   - url: https://search-ud2e.onrender.com/
 paths:
   /api/search:
